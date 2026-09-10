@@ -7,3 +7,8 @@
     - get nodes from that too
     - nodes that we know of = stairs and elevator
 
+## our deliverable
+- report with everybody's work put together
+- diagrams of robot traversing paths, analysis, maps, implementation, other stuff
+- due next week
+
