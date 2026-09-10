@@ -1,0 +1,1 @@
+this is where im putting the jupiter notebook for build 4, we can just make different branches and open prs for changes so when were putting the final draft together we can make sure that everything is correct/on the same page.
